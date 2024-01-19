@@ -1,7 +1,7 @@
 About me
 --------
 
-Hello, I'm Kiattiphum Chueasomchart Fullstack Developer : I can do both Back-end and Front-end. I have been working for 3 years
+Hello, I'm Keattipoom Chaesomchat Fullstack Developer : I can do both Back-end and Front-end. I have been working for 3 years
 
 ### Skills
 

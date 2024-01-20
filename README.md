@@ -3,7 +3,7 @@ About me
 
 Hello, I'm Keattipoom Chaesomchat Fullstack Developer : I can do both Back-end and Front-end. I have been working for 3 years
 
-### Skills
+### Skills 💥
 
 
 <p align="left">
@@ -11,11 +11,11 @@ Hello, I'm Keattipoom Chaesomchat Fullstack Developer : I can do both Back-end a
 </p>
 
 
-### Socials
+### Socials  💨
 
 <p align="left"> <a href="https://www.github.com/MERLIN-XD" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Stats
+### Stats 🔥
 
 <a href="http://www.github.com/MERLIN-XD"><img src="https://github-readme-stats.vercel.app/api?username=MERLIN-XD&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="MERLIN-XD's GitHub stats" /></a>
 

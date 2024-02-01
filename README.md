@@ -22,7 +22,6 @@ const aboutme = {
    codes: ["HTML", "CSS", "js", "Python", "SQL", "php"],
    askMeAbout: ["Front-End", "Back-End"],
    technologies: {
-       ci_cd: ["GitLab", "GitHub", "Jenkins", "GoCD"],
        framework: ["React.js", "Express.js", "codeigniter3", "next.js","vue.js", "TailwindCSS", "Bootstrap"],
        database: "MySQL","mongodb",
        cloud: ["AWS"],
